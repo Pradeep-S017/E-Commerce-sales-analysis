@@ -10,6 +10,7 @@ This repository contains an **E-Commerce Sales Analysis** project, showcasing ad
 
 ## Project Overview  
 The project focuses on analyzing sales data from an e-commerce platform to uncover trends, optimize marketing strategies, and enhance business decision-making.  
+![Screenshot 2024-12-02 114939](https://github.com/user-attachments/assets/3f2cbb9c-b8f2-45d2-b7ed-44e376aadd19)
 
 ### Key Objectives:  
 - Identify sales trends and seasonal patterns.  
