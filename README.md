@@ -34,7 +34,7 @@ The dataset includes anonymized sales records, product details, and customer inf
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/ecommerce-sales-analysis.git  
+   git clone https://github.com/Pradeep-S017/E-Commerce-sales-analysis.git  
    ```  
 2. Access the Power BI report file for visualization.  
 3. Explore SQL scripts for query examples.  
